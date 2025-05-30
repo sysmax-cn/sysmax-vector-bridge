@@ -1,0 +1,11 @@
+[Version 1.0.1]
+Bugfix: Unexpected remote frame  issue 
+Bugfix: Data tailing issue 
+
+[Version 1.0.0]
+Vector Virtual Channel Bridging software reset version
+
+Add a custom title bar to beautify the interface
+Add mapping Settings for PCAN FD channels and Vector virtual channels (supporting multiple channels)
+Optimize the background operation mechanism and add message bubble notifications
+Add mechanisms for handling and recovering abnormal states such as abnormal device occupancy, unexpected unplugging, bus errors, and busoff.

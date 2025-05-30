@@ -2,6 +2,8 @@
 
 ## Introduce
 
+### User Case
+
 ## Hardware Support
 
 ## Usage
