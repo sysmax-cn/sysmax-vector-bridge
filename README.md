@@ -2,7 +2,7 @@
 The SysMax Vector bridging tool is a software that establishes communication between virtual CAN devices of the Vector driver and real CAN/FD hardware to achieve a low-cost alternative to Vector CAN/FD devices.
 ## Introduce
 This scheme realizes the compatibility of CAN interface devices with Vector software by accessing the Virtual CAN channel - Virtual CAN Channel of the Vector driver. This software Bridges the CAN/CAN FD data sent and received by the PCAN FD device with the Vector virtual CAN channel to achieve the purpose of communicating with the real physical bus through the Vector virtual CAN channel.
-![alt text](image.png)
+![alt text](image-2.png)
 ## Vector Software Adaptation Features (Of Vector Virtual CAN channel)
  - This solution does not damage the Vector driver and software, and can be used for commercial use
  - Excellent compatibility, no specific version of Vector driver is specified
@@ -20,7 +20,6 @@ This scheme realizes the compatibility of CAN interface devices with Vector soft
  > - CAPL - https://www.vector.com/at/en/know-how/capl/
  > - API and secondary development software based on Vector CAN driver
  > - TSmaster - https://github.com/TOSUN-Shanghai/TSMaster
- ![alt text](image-1.png)
  > - BusMaster - https://github.com/rbei-etas/busmaster
  
 
